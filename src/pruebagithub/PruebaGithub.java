@@ -16,6 +16,8 @@ public class PruebaGithub {
      */
     public static void main(String[] args) {
         System.out.println("¡Hola mundo!");
+        System.out.println("Acabo de descubrir el comando de clonar linea");
+        System.out.println("¡Mola!");
     }
     
 }
